@@ -10,8 +10,10 @@ This README File contains brief overview of the files in the GitHub repository a
 The Jupyter file contains the information for the assignment. This can be downloaded from Github and viewed in a browser.
 
  To access the the Jupyter notebook, open this file in a browser:
-        
+            To access the notebook, open this file in a browser:
+        file:///C:/Users/Zara/AppData/Roaming/jupyter/runtime/nbserver-17252-open.html
     Or copy and paste one of these URLs:
+        http://localhost:8888/?token=5513053c26f1b838cf55d196d540d8b674f6f99be45b6593
         
         
 To run Jupyter lab or notebook, in the command line interface, type either:
